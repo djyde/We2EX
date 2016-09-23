@@ -3,4 +3,4 @@
     <image class="avatar" src="{{ item.node.avatar_large }}" />
     <text class="title">{{ item.title }}</text>
   <view>
-</view>
+</scroll-view>

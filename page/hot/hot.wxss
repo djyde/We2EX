@@ -1,0 +1,15 @@
+.topic-card {
+  padding: 36rpx;
+  display: flex;
+}
+
+.avatar {
+  padding-right: 36rpx;
+  width: 64rpx;
+  height: 64rpx;
+}
+
+.title {
+  font-size: 26rpx;
+  flex: 1;
+}

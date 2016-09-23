@@ -1,0 +1,6 @@
+<scroll-view scroll-y="true" class="container">
+  <view class="topic-card" wx:for="{{topics}}">
+    <image class="avatar" src="{{ item.node.avatar_large }}" />
+    <text class="title">{{ item.title }}</text>
+  <view>
+</view>
